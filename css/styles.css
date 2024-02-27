@@ -10,13 +10,13 @@ h1 {
   font-family: 'Karla', sans-serif;
   font-size: 5.625rem;
   margin-top: 50px auto 0 auto;
-  color: #66BFBF;
+  color: #50727B;
 }
 
 h2 {
   font-family: 'Rubik', sans-serif;
   font-size: 2.5rem;
-  color: #66BFBF;
+  color: #50727B;
   font-weight: normal;
   padding-bottom: 10px;
 }
@@ -24,11 +24,11 @@ h2 {
 h3 {
   ;
   font-family: 'Varela Round', sans-serif;
-  color: #11999E;
+  color: #344955;
 }
 
 .top-container {
-  background-color: #47B5FF;
+  background-color: #35374B;
   position: relative;
   padding-top: 100px
 }
@@ -72,7 +72,7 @@ hr{
 
 .bottom-container {
   margin-top: 50px;
-  background-color: #66BFBF;
+  background-color: #78A083;
   padding: 50px 0 20px;
 }
 
